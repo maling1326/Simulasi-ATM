@@ -1,2 +1,7 @@
 # Simulasi-ATM
-Tugas temanku, disuruh membuat simulasi ATM yang berisi cek saldo, tarik tunai, setor tunai, dan keluar.
+Tugas temanku, Membuat simulasi ATM dengan C++ dasar.
+
+Saat awal masuk disuruh untuk melanjutkan ke menu,
+PIN = **1326**
+
+Selanjutnya tinggal baca yang ada ^-^
